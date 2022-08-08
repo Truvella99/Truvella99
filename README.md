@@ -11,30 +11,30 @@ Originally from S. Giovanni a Piro ⛰️, cozy town of cilento, always passiona
 Always fascinated by the world of technology🧑‍💻, I undertook this path of study 📖 that allowed me to obtain skills in various fields. Among them, the field of programming, which has always fascinated me most of all.
 
 <p align="center" style="margin: 25px" >
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Java.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/SQL.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Python.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Html.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Css.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Php.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Javascript.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C++.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vhdl.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Latex.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xml.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Java.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/SQL.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Python.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Html.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Css.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Php.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Javascript.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C++.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vhdl.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Latex.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xml.png">
 </p>
 <p align="center" style="margin: 25px" >
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Office.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Postgresql.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vscode.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Netbeans.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vegas.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Corel.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Pycharm.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Android.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Zerynth.png">
-    <img width="50" height="50" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xilinx.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Office.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Postgresql.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vscode.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Netbeans.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vegas.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Corel.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Pycharm.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Android.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Zerynth.png">
+    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xilinx.png">
 </p>
 
 ## Formation
