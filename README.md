@@ -4,7 +4,7 @@
 Passionate Computer Engineer 💻
 
 - See my [portfolio](https://gagliardowebsite.herokuapp.com/) 🌍
-- I've a Bachelor Degree in Computer Engineering and I'm Specilizing in it 🖥️
+- I've a Bachelor Degree in Computer Engineering and I'm Specializing in it 🖥️
 
 ## Skills
 
