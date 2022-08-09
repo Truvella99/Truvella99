@@ -1,71 +1,39 @@
 # Domenico Gagliardo
 
 ## About Me
-Originally from S. Giovanni a Piro ⛰️, cozy town of cilento, always passionate about the world of technology and everything about it. Graduate in computer engineering at the University of Salerno.
+Passionate Computer Engineer 💻
 
-- Birthday: 16/11/1999 🎂
-- Degree: Bachelor Degree in Computer Engineering 🖥️
+- See my [portfolio](https://gagliardowebsite.herokuapp.com/) 🌍
+- I've a Bachelor Degree in Computer Engineering and I'm Specilizing in it 🖥️
 
 ## Skills
 
-Always fascinated by the world of technology🧑‍💻, I undertook this path of study 📖 that allowed me to obtain skills in various fields. Among them, the field of programming, which has always fascinated me most of all.
-
 <p align="center" style="margin: 25px" >
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Java.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/SQL.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Python.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Html.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Css.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Php.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Javascript.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C++.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vhdl.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Latex.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xml.png">
+    <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C.png"></a>
+    <a href="https://www.java.com/en/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Java.png"></a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/SQL.png"></a>
+    <a href="https://www.python.org/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Python.png"></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Html.png"></a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Css.png"></a>
+    <a href="https://www.php.net/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Php.png"></a>
+    <a href="https://www.javascript.com/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Javascript.png"></a>
+    <a href="https://isocpp.org/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/C++.png"></a>
+    <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vhdl.png"></a>
+    <a href="https://www.latex-project.org/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Latex.png"></a>
+    <a href="https://www.w3.org/XML/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xml.png"></a>
 </p>
 <p align="center" style="margin: 25px" >
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Office.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Postgresql.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vscode.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Netbeans.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vegas.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Corel.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Pycharm.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Android.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Zerynth.png">
-    <img width="60" height="60" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xilinx.png">
+    <a href="https://www.microsoft.com/en/microsoft-365" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Office.png"></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Postgresql.png"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vscode.png"></a>
+    <a href="https://netbeans.apache.org/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Netbeans.png"></a>
+    <a href="https://www.vegascreativesoftware.com/gb/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Vegas.png"></a>
+    <a href="https://www.coreldraw.com/en/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Corel.png"></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Pycharm.png"></a>
+    <a href="https://developer.android.com/studio" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Android.png"></a>
+    <a href="https://www.zerynth.com/zsdk/" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Zerynth.png"></a>
+    <a href="https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html" target="_blank"><img width="36" height="36" src="https://gagliardowebsite.herokuapp.com/assets/img/skills/Xilinx.png"></a>   
 </p>
-
-## Formation
-
-My training begins with a diploma in Administration, Finance and Marketing 🧑‍💼, which allowed me to do different work experiences, and then continue with a degree in Computer Engineering. The latter ended with an additional curricular internship experience 🏢, in which I developed an Android application 📱 that was the subject of my thesis.
-
-### Applied Studies
-- BACHELOR DEGREE IN COMPUTER ENGINEERING (GRADE: 110/110) - UNIVERSITY OF SALERNO
-    - 10/09/2018 – 29/09/2021
-
-### Education and Training
-- CAMBRIDGE ASSESSMENT ENGLISH FIRST CERTIFICATE IN ENGLISH (CAMBRIDGE ENGLISH SCALE: 178) - CAMBRIDGE SCHOOL OF SAPRI
-    - 23/10/2021 – 25/06/2022
-- DIPLOMA ADMINISTRATION, FINANCE AND MARKETING (GRADE: 100/100TH) - ISTITUTO ISTRUZIONE SUPERIORE L. DA VINCI
-    - 15/09/2013 – 05/07/2018
-- TRINITY GRADE 6 (CEFR LEVEL B1.2) – TRINITY COLLEGE LONDON
-    - 01/10/2015 – 31/05/2016
-- ECDL CERTIFICATE
-    - 02/04/2014 – 22/05/2015
-
-### Work Experiences
-- CURRICULAR INTERNSHIP – INTEGRATED ENGINEERING STUDIO GAROFALO & PARTNERS SRL
-    - 22/06/2021 – 30/07/2021
-- TOURIST PROMOTER FAIR BIT MILAN - CICAS TOURISM
-    - 11/02/2018 – 13/02/2018
-- RECEPTIONIST MISS ITALIA HOUSE – CICAS TURISMO/GRUPPO EVENTI
-    - 02/09/2017 – 09/09/2017
-- ACCOUNTANT – ASSOCIATE STUDY DR. DAVIDE D’ANGELO
-    - 01/07/2017 – 15/08/2017
-- RECEPTIONIST CASA SANREMO – CICAS TURISMO/GRUPPO EVENTI
-    - 07/03/2017 – 13/03/2017
 
 ## Projects
  - [My Portfolio](https://gagliardowebsite.herokuapp.com/)
@@ -76,6 +44,12 @@ My training begins with a diploma in Administration, Finance and Marketing 🧑�
  - [Cambridge-Score-Calculator](https://github.com/Truvella99/Cambridge-Score-Calculator)
  - [Digital-Technologies](https://github.com/Truvella99/Digital-Technologies)
 
+## Github Stats
+
+<a href="http://www.github.com/Truvella99"><img src="https://github-readme-stats.vercel.app/api?username=Truvella99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Truvella99's GitHub stats" /></a>
+
 ## Contact Me
- - Email📧: gagliardo9975@gmail.com
- - Portfolio: [Click Here 💻](https://gagliardowebsite.herokuapp.com/)
+
+You can contact me through:
+- My Email: gagliardo9975@gmail.com 📧
+- [My Portfolio](https://gagliardowebsite.herokuapp.com/) 🌍
