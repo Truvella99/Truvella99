@@ -54,3 +54,4 @@ Passionate Computer Engineer 💻
 You can contact me through:
 - My Email: gagliardo9975@gmail.com 📧
 - [My Portfolio](https://gagliardowebsite.herokuapp.com/) 🌍
+- [My Linkedin Profile](https://www.linkedin.com/in/domenico-gagliardo-3256ba229) 🖥️
