@@ -19,6 +19,7 @@ Passionate Computer Engineer 💻
     <a href="https://www.php.net/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Php.png"></a>
     <a href="https://www.javascript.com/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Javascript.png"></a>
     <a href="https://isocpp.org/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/C++.png"></a>
+    <a href="https://git-scm.com/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Git.png"></a>
     <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Vhdl.png"></a>
     <a href="https://www.latex-project.org/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Latex.png"></a>
     <a href="https://www.w3.org/XML/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Xml.png"></a>
@@ -33,7 +34,8 @@ Passionate Computer Engineer 💻
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Pycharm.png"></a>
     <a href="https://developer.android.com/studio" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Android.png"></a>
     <a href="https://www.zerynth.com/zsdk/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Zerynth.png"></a>
-    <a href="https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Xilinx.png"></a>   
+    <a href="https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Xilinx.png"></a>
+    <a href="https://github.com/" target="_blank"><img width="46" height="46" src="https://gagliardowebsite.azurewebsites.net/assets/img/skills/Github.png"></a>
 </p>
 
 ## Projects
