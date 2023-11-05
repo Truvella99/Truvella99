@@ -60,10 +60,6 @@ Passionate Computer Engineer 💻
  - [Digital-Technologies](https://github.com/Truvella99/Digital-Technologies)
  - [Youtube-To-Mp3-Downloader](https://github.com/Truvella99/Youtube-To-Mp3-Downloader)
 
-## Github Stats
-
-<a href="http://www.github.com/Truvella99"><img src="https://github-readme-stats.vercel.app/api?username=Truvella99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Truvella99's GitHub stats" /></a>
-
 ## Contact Me
 
 You can contact me through:
