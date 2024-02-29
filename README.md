@@ -51,6 +51,7 @@ Passionate Computer Engineer 💻
  - [Software-Engineering](https://github.com/Truvella99/se_project)
  - [Machine-Learning](https://github.com/Truvella99/ml_project)
  - [Web-Applications-1](https://github.com/Truvella99/aw1_project)
+ - [Human-Computer-Interaction](https://github.com/Truvella99/hci_project)
  - [System-and-device-programming](https://github.com/Truvella99/pds_project)
  - [Android-App](https://github.com/Truvella99/Android-App)
  - [Internet-of-Things](https://github.com/Truvella99/Internet-of-Things)
