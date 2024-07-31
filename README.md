@@ -50,6 +50,7 @@ Passionate Computer Engineer 💻
  - [Computer-Architectures](https://github.com/Truvella99/ase_project)
  - [Software-Engineering](https://github.com/Truvella99/se_project)
  - [Machine-Learning](https://github.com/Truvella99/ml_project)
+ - [Advanced-Machine-Learning](https://github.com/Truvella99/Activation-Shaping-AML)
  - [Web-Applications-1](https://github.com/Truvella99/aw1_project)
  - [Web-Applications-2](https://github.com/Truvella99/awII_project)
  - [Mobile-Application-Development](https://github.com/Truvella99/mad_project)
