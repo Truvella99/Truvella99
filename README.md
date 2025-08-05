@@ -6,7 +6,7 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Skills 
 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <a href="https://www.android.com/intl/en_us/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/android_light.svg" width="50" height="50" /></a>
   <a href="https://developer.android.com/studio?hl=en"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/androidstudio_light.svg" width="50" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/API"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/api_light.svg" width="50" height="50" /></a>
@@ -24,9 +24,6 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
   <a href="https://firebase.google.com/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/firebase_light.svg" width="50" height="50" /></a>
   <a href="https://flutter.dev/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/flutter_light.svg" width="50" height="50" /></a>
   <a href="https://cloud.google.com/?hl=en"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/gcp_light.svg" width="50" height="50" /></a>
-</p>
-
-<p align="center">
   <a href="https://git-scm.com/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/git_light.svg" width="50" height="50" /></a>
   <a href="https://github.com/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/github_light.svg" width="50" height="50" /></a>
   <a href="https://github.com/features/actions"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/githubactions_light.svg" width="50" height="50" /></a>
@@ -44,9 +41,6 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
   <a href="https://www.json.org/json-en.html"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/json_light.svg" width="50" height="50" /></a>
   <a href="https://jupyter.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/jupyter_light.svg" width="50" height="50" /></a>
   <a href="https://jwt.io/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/jwt_light.svg" width="50" height="50" /></a>
-</p>
-
-<p align="center">
   <a href="https://kafka.apache.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/kafka_light.svg" width="50" height="50" /></a>
   <a href="https://www.keycloak.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/keycloak_light.svg" width="50" height="50" /></a>
   <a href="https://kotlinlang.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/kotlin_light.svg" width="50" height="50" /></a>
@@ -64,9 +58,6 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
   <a href="https://www.postman.com/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/postman_light.svg" width="50" height="50" /></a>
   <a href="https://prometheus.io/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/prometheus_light.svg" width="50" height="50" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/pycharm_light.svg" width="50" height="50" /></a>
-</p>
-
-<p align="center">
   <a href="https://www.python.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/python_light.svg" width="50" height="50" /></a>
   <a href="https://pytorch.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/pytorch_light.svg" width="50" height="50" /></a>
   <a href="https://react.dev/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/react_light.svg" width="50" height="50" /></a>
@@ -84,9 +75,6 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
   <a href="https://www.vmware.com/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/vmwareworkstation_light.svg" width="50" height="50" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/vscode_light.svg" width="50" height="50" /></a>
   <a href="https://www.jetbrains.com/webstorm/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/webstorm_light.svg" width="50" height="50" /></a>
-</p>
-
-<p align="center">
   <a href="https://www.microsoft.com/en-gb/windows/?r=1"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/windows_light.svg" width="50" height="50" /></a>
   <a href="https://www.wireshark.org/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/wireshark_light.svg" width="50" height="50" /></a>
   <a href="https://ubuntu.com/desktop/wsl"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/wsl_light.svg" width="50" height="50" /></a>
@@ -103,7 +91,7 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/powerpoint_light.svg" width="50" height="50" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/teams_light.svg" width="50" height="50" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/word_light.svg" width="50" height="50" /></a>
-</p>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="35" height="35" /> Projects
 
