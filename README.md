@@ -117,13 +117,13 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
     </td>
     <td align="center" width="180">
       <a href="https://github.com/Truvella99/Android-App">
-        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/appGeofencing.gif" width="160" height="90" alt="Geofencing Android App"/><br/>
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/appGeofencing.png" width="160" height="90" alt="Geofencing Android App"/><br/>
         <b>Geofencing Android App</b>
       </a>
     </td>
     <td align="center" width="180">
       <a href="https://github.com/Truvella99/Internet-of-Things">
-        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/iot.gif" width="160" height="90" alt="Internet of Things"/><br/>
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/iot.png" width="160" height="90" alt="Internet of Things"/><br/>
         <b>Internet of Things</b>
       </a>
     </td>
@@ -161,7 +161,7 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
     </td>
     <td align="center" width="180">
       <a href="https://github.com/Truvella99/ase_project">
-        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/computerArchitectures.gif" width="160" height="90" alt="Computer Architecture"/><br/>
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/computerArchitectures.png" width="160" height="90" alt="Computer Architecture"/><br/>
         <b>Computer Architecture</b>
       </a>
     </td>
@@ -187,7 +187,7 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
   <tr>
     <td align="center" width="180">
       <a href="https://github.com/Truvella99/pds_project">
-        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/systemDeviceProgramming.gif" width="160" height="90" alt="System and device Programming"/><br/>
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/systemDeviceProgramming.png" width="160" height="90" alt="System and device Programming"/><br/>
         <b>System and device Programming</b>
       </a>
     </td>
@@ -205,13 +205,13 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
     </td>
     <td align="center" width="180">
       <a href="https://github.com/Truvella99/mad_project">
-        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/mad.gif" width="160" height="90" alt="Mobile Application Development"/><br/>
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/mad.png" width="160" height="90" alt="Mobile Application Development"/><br/>
         <b>Mobile Application Development</b>
       </a>
     </td>
     <td align="center" width="180">
       <a href="https://github.com/Truvella99/hci_project">
-        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/humanComputerInteraction.gif" width="160" height="90" alt="Human Computer Interaction"/><br/>
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/humanComputerInteraction.png" width="160" height="90" alt="Human Computer Interaction"/><br/>
         <b>Human Computer Interaction</b>
       </a>
     </td>
