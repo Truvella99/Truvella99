@@ -2,14 +2,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Person Tipping Hand Light Skin Tone" width="35" height="35" /> About Me
 
-I am a software engineer born in San Giovanni a Piro with a passion for technology and a strong desire to learn and grow. With a a Master Degree in Computer Engineering, Artificial Intelligence Curriculum <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="15" height="15" />, I have experience in various programming languages and frameworks 💻, and I am always eager to take on new challenges. My goal is to create innovative solutions that make a positive impact on the world. 🌍
+I am a software engineer born in San Giovanni a Piro with a passion for technology and a strong desire to learn and grow. With a Bachelor Degree in Computer Engineering obtained at <a href="https://web.unisa.it/en/university">Unisa</a> and a Master Degree in Computer Engineering, Artificial Intelligence Curriculum <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="15" height="15" /> obtained at <a href="https://www.polito.it/en">Polito</a>, I have experience in various programming languages and frameworks 💻, and I am always eager to take on new challenges. My goal is to create innovative solutions that make a positive impact on the world. 🌍
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Skills 
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
-      <td style="border:none;"><a href="https://www.android.com/intl/en_us/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/android_light.svg" width="50" height="50" /></a></td>
+      <td style="border:none;"><a href="https://www.android.com/intl/en_us/"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/android_light.svg" width="80" height="80" /></a></td>
       <td style="border:none;"><a href="https://developer.android.com/studio?hl=en"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/androidstudio_light.svg" width="50" height="50" /></a></td>
       <td style="border:none;"><a href="https://en.wikipedia.org/wiki/API"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/api_light.svg" width="50" height="50" /></a></td>
       <td style="border:none;"><a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://portfolio-truvella99s-projects.vercel.app/skills/assembly_light.svg" width="50" height="50" /></a></td>
@@ -107,80 +107,122 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="35" height="35" /> Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
-  <a href="https://github.com/Truvella99/portfolio" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/portfolio.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Portfolio"/><br/>
-    <b>Portfolio</b>
-  </a>
-  <a href="https://github.com/Truvella99/Android-App" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/appGeofencing.gif" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Geofencing Android App"/><br/>
-    <b>Geofencing Android App</b>
-  </a>
-  <a href="https://github.com/Truvella99/Internet-of-Things" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/iot.gif" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Internet of Things"/><br/>
-    <b>Internet of Things</b>
-  </a>
-  <a href="https://github.com/Truvella99/Database" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/database.jpg" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Database"/><br/>
-    <b>Database</b>
-  </a>
-  <a href="https://github.com/Truvella99/Telegram-Bot" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/telegramBot.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Telegram Bot"/><br/>
-    <b>Telegram Bot</b>
-  </a>
-  <a href="https://github.com/Truvella99/Cambridge-Score-Calculator" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/cambridge.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Cambridge Script"/><br/>
-    <b>Cambridge Script</b>
-  </a>
-  <a href="https://github.com/Truvella99/Digital-Technologies" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/digitalTechnologies.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Digital Technologies"/><br/>
-    <b>Digital Technologies</b>
-  </a>
-  <a href="https://github.com/Truvella99/Youtube-To-Mp3-Downloader" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/ytToMp3.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Youtube to mp3"/><br/>
-    <b>Youtube to mp3</b>
-  </a>
-  <a href="https://github.com/Truvella99/ase_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/computerArchitectures.gif" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Computer Architecture"/><br/>
-    <b>Computer Architecture</b>
-  </a>
-  <a href="https://github.com/Truvella99/se_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/softwareEngineering.jpg" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Software Engineering"/><br/>
-    <b>Software Engineering</b>
-  </a>
-  <a href="https://github.com/Truvella99/ml_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/machineLearning.jpg" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Machine Learning"/><br/>
-    <b>Machine Learning</b>
-  </a>
-  <a href="https://github.com/Truvella99/aw1_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/webApplication1.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Web Application 1"/><br/>
-    <b>Web Application 1</b>
-  </a>
-  <a href="https://github.com/Truvella99/pds_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/systemDeviceProgramming.gif" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="System and device Programming"/><br/>
-    <b>System and device Programming</b>
-  </a>
-  <a href="https://github.com/Truvella99/Activation-Shaping-AML" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/advancedMachineLearning.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Advanced Machine Learning"/><br/>
-    <b>Advanced Machine Learning</b>
-  </a>
-  <a href="https://github.com/Truvella99/awII_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/webApplication2.jpg" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Web Application 2"/><br/>
-    <b>Web Application 2</b>
-  </a>
-  <a href="https://github.com/Truvella99/mad_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/mad.gif" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Mobile Application Development"/><br/>
-    <b>Mobile Application Development</b>
-  </a>
-  <a href="https://github.com/Truvella99/hci_project" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/humanComputerInteraction.gif" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Human Computer Interaction"/><br/>
-    <b>Human Computer Interaction</b>
-  </a>
-  <a href="https://github.com/Truvella99/master_degree_thesis" style="display: inline-block; text-align: center; margin: 12px; width: 16%;">
-    <img src="https://portfolio-truvella99s-projects.vercel.app/projects/thesis.png" width="160" height="90" style="object-fit: cover; border-radius: 8px;" alt="Master's Degree Thesis"/><br/>
-    <b>Master's Degree Thesis</b>
-  </a>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/portfolio">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/portfolio.png" width="160" height="90" alt="Portfolio"/><br/>
+        <b>Portfolio</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Android-App">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/appGeofencing.gif" width="160" height="90" alt="Geofencing Android App"/><br/>
+        <b>Geofencing Android App</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Internet-of-Things">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/iot.gif" width="160" height="90" alt="Internet of Things"/><br/>
+        <b>Internet of Things</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Database">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/database.jpg" width="160" height="90" alt="Database"/><br/>
+        <b>Database</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Telegram-Bot">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/telegramBot.png" width="160" height="90" alt="Telegram Bot"/><br/>
+        <b>Telegram Bot</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Cambridge-Score-Calculator">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/cambridge.png" width="160" height="90" alt="Cambridge Script"/><br/>
+        <b>Cambridge Script</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Digital-Technologies">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/digitalTechnologies.png" width="160" height="90" alt="Digital Technologies"/><br/>
+        <b>Digital Technologies</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Youtube-To-Mp3-Downloader">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/ytToMp3.png" width="160" height="90" alt="Youtube to mp3"/><br/>
+        <b>Youtube to mp3</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/ase_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/computerArchitectures.gif" width="160" height="90" alt="Computer Architecture"/><br/>
+        <b>Computer Architecture</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/se_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/softwareEngineering.jpg" width="160" height="90" alt="Software Engineering"/><br/>
+        <b>Software Engineering</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/ml_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/machineLearning.jpg" width="160" height="90" alt="Machine Learning"/><br/>
+        <b>Machine Learning</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/aw1_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/webApplication1.png" width="160" height="90" alt="Web Application 1"/><br/>
+        <b>Web Application 1</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/pds_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/systemDeviceProgramming.gif" width="160" height="90" alt="System and device Programming"/><br/>
+        <b>System and device Programming</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/Activation-Shaping-AML">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/advancedMachineLearning.png" width="160" height="90" alt="Advanced Machine Learning"/><br/>
+        <b>Advanced Machine Learning</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/awII_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/webApplication2.jpg" width="160" height="90" alt="Web Application 2"/><br/>
+        <b>Web Application 2</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/mad_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/mad.gif" width="160" height="90" alt="Mobile Application Development"/><br/>
+        <b>Mobile Application Development</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/hci_project">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/humanComputerInteraction.gif" width="160" height="90" alt="Human Computer Interaction"/><br/>
+        <b>Human Computer Interaction</b>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Truvella99/master_degree_thesis">
+        <img src="https://portfolio-truvella99s-projects.vercel.app/projects/thesis.png" width="160" height="90" alt="Master's Degree Thesis"/><br/>
+        <b>Master's Degree Thesis</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
@@ -191,14 +233,6 @@ I am a software engineer born in San Giovanni a Piro with a passion for technolo
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Contact Me
 
-<div style="display: flex; gap: 50px;">
-  <a href="mailto:gagliardo9975@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-truvella99s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/domenico-gagliardo-3256ba229">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<a href="mailto:gagliardo9975@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-truvella99s-projects.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/domenico-gagliardo-3256ba229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
